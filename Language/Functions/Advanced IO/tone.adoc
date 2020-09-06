@@ -42,7 +42,7 @@ It is not possible to generate tones lower than 31Hz. For technical details, see
 
 [float]
 === Returns
-Nothing
+PWM Signal from selected pin
 
 --
 // OVERVIEW SECTION ENDS
